@@ -1,0 +1,1 @@
+Script que crea un archivo de texto de números aleatorios con condiciones dadas por el usuario.

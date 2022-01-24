@@ -1,0 +1,1 @@
+Script para un vendedor que rellena la información del cliente y le genera un archivo de texto con los datos
