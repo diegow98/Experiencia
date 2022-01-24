@@ -1,0 +1,1 @@
+Script que compara las imágenes de las carpetas y coloca las similares en un excel

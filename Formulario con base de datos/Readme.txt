@@ -1,0 +1,1 @@
+Script que permite crear y leer una base de datos y añadir y modificar usuarios con su información a la misma

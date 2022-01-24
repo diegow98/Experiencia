@@ -1,0 +1,1 @@
+Script que recolectaba en un excel los números que iban saliendo de una ruleta
