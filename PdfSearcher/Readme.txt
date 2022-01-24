@@ -1,0 +1,1 @@
+Script que busca una palabra en los archivos pdf que hay en su carpeta y crea un excel con los parrafos que contienen esa palabra.
